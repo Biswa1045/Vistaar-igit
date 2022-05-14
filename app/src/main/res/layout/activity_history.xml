@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    tools:context=".HistoryActivity"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/rel_his"
+    android:background="@drawable/grad_anim"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="History"
+        android:fontFamily="@font/poppins_semibold"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        app:cardCornerRadius="10dp"
+        android:background="?selectableItemBackground"
+        android:clickable="true"
+        android:id="@+id/his_2020"
+        android:layout_marginTop="55dp"
+        android:layout_marginHorizontal="10dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:background="@color/yellow"
+            android:layout_height="match_parent"
+            >
+
+            <ImageView
+                android:layout_width="100dp"
+
+                android:layout_height="match_parent"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:fontFamily="@font/poppins_semibold"
+                android:gravity="center"
+                android:text="Vistaar 4.0 (2022)"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+        </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/buttom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/transparent"
+
+        app:itemTextColor="#4C4A49"
+        app:menu="@menu/bottom_nav_menu" />
+</RelativeLayout></RelativeLayout>

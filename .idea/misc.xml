@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/event_selector.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/gallery_selector.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/grad2.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/grad4.xml" value="0.12" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/gradient1.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/gradient2.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/gradientcenter.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/gradientend.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/gradientstart.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/half.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/history_selector.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/home_selector.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/ic_baseline_history_24.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/ic_baseline_history_24_yellow.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/ic_baseline_image_24.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/ic_baseline_people_alt_24.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.152" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/anim.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/event_selector.xml" value="0.126" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/grad.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/grad2.xml" value="0.126" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/grad4.xml" value="0.126" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/grad_anim.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/gradient1.xml" value="0.126" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/gradientcenter.xml" value="0.126" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/gradientend.xml" value="0.126" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/half.xml" value="0.1" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/ic_baseline_home_24_yellow.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/ic_baseline_people_alt_24.xml" value="0.1355" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1325" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/drawable/roundqus.xml" value="0.1365" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_admin.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_details.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_event.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_event_details.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_gallery.xml" value="0.3129346314325452" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_history.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_history_gall.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_main.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_participants.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_rec.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_signin.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/activity_web.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/add_event_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/add_video_dialog.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/admin_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/anim_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/check.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/event.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/event_short_item.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/image_dialog.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/participants_item.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/photo_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/layout/team_details.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/menu/toolbar_option.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/biswa/AndroidStudioProjects/Vistaar/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

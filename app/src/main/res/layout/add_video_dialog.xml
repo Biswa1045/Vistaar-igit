@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_gravity="center"
+    android:elevation="10dp"
+    android:layout_height="350dp">
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+        <VideoView
+            android:layout_width="200dp"
+            android:layout_height="120dp"
+            android:id="@+id/intro_video"
+            android:gravity="center_horizontal"
+            />
+        <Button
+            android:id="@+id/sel_intro_vdo"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Select Video"
+            android:layout_marginTop="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="upload video under 4 mb for smooth running."
+            android:layout_marginHorizontal="10dp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:textSize="14dp"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"/>
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/intro_p"
+            android:visibility="invisible"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
